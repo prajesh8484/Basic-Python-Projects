@@ -51,3 +51,7 @@ def exzt():
         runloop()
     else:
         sys.exit()
+
+header()
+app()
+exzt()
