@@ -24,6 +24,11 @@ def play_game():
 
         user_action = input("* Enter a choice (rock, paper, scissors): ")
         possible_actions = ["rock", "paper", "scissors"]
+
+        if user_action not in possible_actions:
+            print(colored("\nPlease choose a valid option (rock, paper, or scissors).\n", 'red'))
+            continue
+        
         computer_action = random.choice(possible_actions)
         print(f"\nYou chose {user_action}, computer chose {computer_action}.\n")
 
