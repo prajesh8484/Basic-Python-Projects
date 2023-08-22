@@ -41,7 +41,7 @@ def app():
         else:
             print(colored("\nError! Incorrect OTP. Please try again.", 'red', attrs=['bold']))
 
-# Exiting of the program
+# Exiting the program
 def exet():
     choice = input("\nThanks for using the code. Enter 'y' to run again or press any key to exit: ")
     if choice.lower() == 'y':
