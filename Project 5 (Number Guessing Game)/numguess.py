@@ -45,8 +45,8 @@ def update_highscore(new_score):
     try:
         with open("hiscore.txt", "r") as f:
             current_highscore = int(f.read())
-    except FileNotFoundError:
-        current_highscore = float("inf")
+    except FileNotFoundError as e:
+        print(f"An error occurred: {e}")
 
     if new_score < current_highscore:
         with open("hiscore.txt", "w") as f:
