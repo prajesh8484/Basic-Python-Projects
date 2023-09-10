@@ -11,7 +11,7 @@ def display_banner():
     print('-' * 70)
     ascii_banner = pyfiglet.figlet_format("Number Guessing Game").upper()
     print(colored(ascii_banner.rstrip("\n"), 'red', attrs=['bold']))
-    print(colored("     -by PRAJESH      \n", 'yellow', attrs=['bold']))
+    print(colored("     -by prajesh8484      \n", 'yellow', attrs=['bold']))
     print('-' * 70)
 
 def get_player_input(prompt):
