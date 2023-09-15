@@ -19,5 +19,7 @@ except Exception as e:
     g = input("\nPress any key to exit...")
     sys.exit()
 else:
-
-
+    # Inform user of success
+    print((colored("\nHistory cleared Successfully!", 'green', attrs=['bold'])))
+    h = input("\nPress any key to exit...")
+    sys.exit()
