@@ -7,6 +7,7 @@ import wikipedia
 os.system('color')
 os.system('cls')
 
+# Function to display banner
 def show_info():
     print('-'*70)
     banner = pyfiglet.figlet_format("GET INFO").upper()
