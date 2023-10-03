@@ -16,6 +16,7 @@ def show_info():
     print('-'*70)
     print("\nA project to search something")
 
+# Main application function
 def app():
     print((colored("Please enter exact words for example: Python (Programming language), Alex (name)", 'cyan')))
     name = input("\nEnter your query: ").strip()
