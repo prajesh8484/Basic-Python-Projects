@@ -31,6 +31,7 @@ def app():
         print((colored(f"\nError! : {e}", 'red')))
         exet()
 
+# Function to ask for replay or exit
 def exet():
     choice = input("\nThanks for using the code. Press 'y' to run again or any other key to exit:")
     if choice == 'y':
