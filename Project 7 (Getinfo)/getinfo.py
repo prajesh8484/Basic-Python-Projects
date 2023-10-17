@@ -39,6 +39,7 @@ def exet():
     else:
         sys.exit()
 
+# Main loop
 def run_loop():
     os.system('cls')
     show_info()
