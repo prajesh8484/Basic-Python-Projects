@@ -10,3 +10,8 @@
 Welcome to the Python Projects Showcase repository! This collection features a variety of basic Python projects designed to help you sharpen your programming skills and explore different concepts within the Python programming language, whether you're a beginner or an intermediate coder
 
 
+
+## Built With
+
+* [Python 3.10.6](https://www.python.org/downloads/release/python-3106/)
+
