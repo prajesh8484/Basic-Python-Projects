@@ -5,9 +5,7 @@ from termcolor import colored
 import sys
 from datetime import datetime
 
-# Set up console color
 os.system('color')
-
 
 # Display program information
 def show_info():
@@ -63,10 +61,8 @@ def make_history(lst):
 def main():
 
     os.system('cls' if os.name == 'nt' else 'clear')
-    # Display program information
     show_info()
 
-    # Get total elements and user list
     total_elements = get_number_of_elements()
     user_list = get_list(total_elements)
 
