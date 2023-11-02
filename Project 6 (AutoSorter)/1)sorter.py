@@ -66,10 +66,8 @@ def main():
     total_elements = get_number_of_elements()
     user_list = get_list(total_elements)
 
-    # Sort the list
     sorted_list = sort_list_ascending(user_list)
 
-    # Display sorted output
     print("\n» Your output is:")
     for element in sorted_list:
         print(element)
@@ -85,7 +83,6 @@ def main():
     else:
         sys.exit()
 
-# Check if the script is run directly
 if __name__ == "__main__":
     main()
 
