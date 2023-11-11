@@ -6,7 +6,6 @@ This project implements a text-based version of the classic Rock-Paper-Scissors 
 * pyfiglet:
  ```
 pip install pyfiglet
-
 ```
 
 **termcolor:** `pip install termcolor`
