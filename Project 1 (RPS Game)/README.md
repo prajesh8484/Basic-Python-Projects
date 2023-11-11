@@ -9,9 +9,9 @@ pip install pyfiglet
 ```
 
 * termcolor:
-  ```
-  pip install termcolor
-  ```
+```
+pip install termcolor
+```
   
   
   
