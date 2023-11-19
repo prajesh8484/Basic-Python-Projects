@@ -13,7 +13,7 @@ def showinfo():
     print('-' * 70)
     banner = pyfiglet.figlet_format("O T P  T E S T").upper()
     print(colored(banner.rstrip("\n"), 'red', attrs=['bold']))
-    print(colored("     -by PRAJESH      \n", 'yellow', attrs=['bold']))
+    print(colored("     -by prajesh8484      \n", 'yellow', attrs=['bold']))
     print('-' * 70)
     print("\nA test project to make simple OTP verification")
 
