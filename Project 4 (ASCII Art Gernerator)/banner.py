@@ -14,7 +14,7 @@ def aciimaker():
     print('-' * 70)
     ascii_banner = pyfiglet.figlet_format("A C I I banner").upper()
     print(colored(ascii_banner.rstrip("\n"), 'red', attrs=['bold']))
-    print(colored("     -by PRAJESH      \n", 'yellow', attrs=['bold']))
+    print(colored("     -by prajsh8484      \n", 'yellow', attrs=['bold']))
     print('-' * 70)
     
     text = input("\nEnter Your Text: ")
