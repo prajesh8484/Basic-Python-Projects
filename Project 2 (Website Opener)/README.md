@@ -4,6 +4,12 @@ This project is a simple command-line utility that allows the user to open speci
 
 
 ## Requirements:
-**pyfiglet:** `pip install pyfiglet`
+* pyfiglet:
+ ```
+pip install pyfiglet
+```
 
-**termcolor:** `pip install termcolor`
+* termcolor:
+```
+pip install termcolor
+```
