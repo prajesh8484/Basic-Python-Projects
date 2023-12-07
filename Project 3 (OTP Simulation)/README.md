@@ -4,6 +4,10 @@ This project simulates a simple one-time password (OTP) verification process. Th
 
 
 ## Requirements:
-**pyfiglet:** `pip install pyfiglet`
+* pyfiglet:
+ ```
+pip install pyfiglet
+```
+
 
 **termcolor:** `pip install termcolor`
