@@ -4,6 +4,8 @@ The lets you create attractive text designs using ASCII characters. You input yo
 Quick and fun way to make your text look cool! 
 
 ## Requirements:
-**pyfiglet:** `pip install pyfiglet`
-
+* pyfiglet:
+ ```
+pip install pyfiglet
+```
 **termcolor:** `pip install termcolor`
