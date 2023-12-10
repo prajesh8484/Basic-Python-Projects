@@ -8,4 +8,7 @@ Quick and fun way to make your text look cool!
  ```
 pip install pyfiglet
 ```
-**termcolor:** `pip install termcolor`
+* termcolor:
+```
+pip install termcolor
+```
