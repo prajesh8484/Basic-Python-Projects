@@ -4,6 +4,9 @@ In this "Number Guessing Game" project you try to guess a secret randomly genera
 
 
 ## Requirements:
-**pyfiglet:** `pip install pyfiglet`
+* pyfiglet:
+ ```
+pip install pyfiglet
+```
 
 **termcolor:** `pip install termcolor`
