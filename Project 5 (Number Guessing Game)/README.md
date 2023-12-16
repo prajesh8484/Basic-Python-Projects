@@ -8,5 +8,7 @@ In this "Number Guessing Game" project you try to guess a secret randomly genera
  ```
 pip install pyfiglet
 ```
-
-**termcolor:** `pip install termcolor`
+* termcolor:
+```
+pip install termcolor
+```
