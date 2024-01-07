@@ -8,4 +8,7 @@
 pip install pyfiglet
 ```
 
-**termcolor:** `pip install termcolor`
+* termcolor:
+```
+pip install termcolor
+```
