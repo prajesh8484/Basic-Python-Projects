@@ -8,6 +8,9 @@ This Python script allows users to search for information on various topics usin
 pip install pyfiglet
 ```
 
-**termcolor:** `pip install termcolor`
+* termcolor:
+```
+pip install termcolor
+```
 
 **wikipedia:** `pip install wikipedia`
