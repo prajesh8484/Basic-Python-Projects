@@ -13,4 +13,8 @@ pip install pyfiglet
 pip install termcolor
 ```
 
-**wikipedia:** `pip install wikipedia`
+* wikipedia:
+```
+pip install wikipedia
+```
+
