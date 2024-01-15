@@ -8,7 +8,7 @@ This project implements a text-based version of the classic Rock-Paper-Scissors 
 pip install pyfiglet
 ```
 
-* termcolor:
+* termcolor :
 ```
 pip install termcolor
 ```
