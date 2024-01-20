@@ -4,7 +4,7 @@ This project is a simple command-line utility that allows the user to open speci
 
 
 ## Requirements:
-* pyfiglet:
+* pyfiglet :
  ```
 pip install pyfiglet
 ```
