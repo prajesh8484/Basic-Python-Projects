@@ -9,7 +9,7 @@ This project is a simple command-line utility that allows the user to open speci
 pip install pyfiglet
 ```
 
-* termcolor:
+* termcolor :
 ```
 pip install termcolor
 ```
