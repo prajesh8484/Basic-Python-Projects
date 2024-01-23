@@ -8,7 +8,7 @@ This project simulates a simple one-time password (OTP) verification process. Th
  ```
 pip install pyfiglet
 ```
-* termcolor:
+* termcolor :
 ```
 pip install termcolor
 ```
