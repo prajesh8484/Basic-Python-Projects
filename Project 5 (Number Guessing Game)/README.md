@@ -4,7 +4,7 @@ In this "Number Guessing Game" project you try to guess a secret randomly genera
 
 
 ## Requirements:
-* pyfiglet:
+* pyfiglet :
  ```
 pip install pyfiglet
 ```
