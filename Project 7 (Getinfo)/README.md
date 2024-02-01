@@ -7,7 +7,7 @@ This Python script allows users to search for information on various topics usin
  ```
 pip install pyfiglet
 ```
-* termcolor:
+* termcolor :
 ```
 pip install termcolor
 ```
