@@ -1,4 +1,5 @@
-# Basic-Python-Projects
+# Project 7 (Password Generator)
+
 
 <p align="center">
 <a href="https://github.com/prajesh8484/Basic-Python-Projects"><img src="https://img.shields.io/github/languages/code-size/prajesh8484/Basic-Python-Projects"></a>
