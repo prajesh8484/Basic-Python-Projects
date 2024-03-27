@@ -1,6 +1,6 @@
 # Project 7 (Password Generator)
 ## Requirements:
-* pyfiglet:
+* pyfiglet :
  ```
 pip install pyfiglet
 ```
