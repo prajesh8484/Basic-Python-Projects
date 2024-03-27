@@ -1,4 +1,5 @@
-# Project 7 (Password Generator)
+# Project 8: Password Generator
+
 ## Requirements:
 * pyfiglet :
  ```
